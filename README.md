@@ -1,3 +1,3 @@
-# flutter_clean_arch
+# Posts app
 
 A new Flutter project.
